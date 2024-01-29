@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
-    "build": "babel app.js -d dist"
+    "build": "babel src -d dist"
   },
   "keywords": [],
   "author": "",
